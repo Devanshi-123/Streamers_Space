@@ -1,0 +1,46 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is a good stream",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "This is a good stream",
+      "id": 2
+    },
+    {
+      "title": "devanshi",
+      "description": "good girl",
+      "id": 3
+    },
+    {
+      "title": "other stream",
+      "description": "it is also nice",
+      "id": 4
+    },
+    {
+      "title": "first stream",
+      "description": "good one",
+      "id": 5
+    },
+    {
+      "title": "My streams",
+      "description": "made by me",
+      "id": 6
+    },
+    {
+      "title": "A stream on covid",
+      "description": "Precautionary measures",
+      "userId": "116724016366286603602",
+      "id": 9
+    },
+    {
+      "title": "new",
+      "description": "new sream",
+      "userId": "116724016366286603602",
+      "id": 10
+    }
+  ]
+}
